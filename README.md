@@ -1,4 +1,4 @@
-Bem vindo ao perfil de Julio Cesar Barbosa.
+<b>Bem vindo ao perfil de Julio Cesar Barbosa.</b>
 
  <div>
   <a href="https://github.com/JulioCesarBarbosaCastroGithub">
